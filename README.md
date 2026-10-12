@@ -79,3 +79,7 @@ Projeto acadêmico com uma API REST em Java que atende ao front-end do Desenvolv
 ## Contato
 
 Estou aberto a conversar sobre banco de dados, DevOps, cloud e desenvolvimento back-end. A melhor forma de falar comigo é pelo [LinkedIn](https://linkedin.com/in/clayton-alves-dos-santos-224281353).
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1f6feb,45:0b2545,100:0d1117&height=120&section=footer" alt="" width="100%">
+</p>
