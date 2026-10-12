@@ -19,16 +19,6 @@ Tenho interesse em **Banco de Dados**, **DevOps** e **desenvolvimento back-end**
 
 > 🚀 **Em busca da minha primeira oportunidade como Jovem Aprendiz em TI ou Trainee em TI.**
 
-## Tecnologias
-
-| Área | Tecnologias |
-| :-- | :-- |
-| **Banco de Dados** | <img src="assets/oracle.svg" alt="Oracle Database" height="40"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"><br><sub>Oracle Database · SQL · PL/SQL · MySQL</sub> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github" alt="Azure, Docker, Linux, Git, GitHub" height="40"><br><sub>Microsoft Azure · Docker · Docker Compose · Linux · Git · GitHub</sub> |
-| **Back-end e Programação** | <img src="https://skillicons.dev/icons?i=java,python" alt="Java, Python" height="40"><br><sub>Java · Python</sub> |
-| **Web** | <img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS" height="40"><br><sub>HTML · CSS</sub> |
-| **Ferramentas** | <img src="https://skillicons.dev/icons?i=idea,vscode" alt="IntelliJ IDEA, VS Code" height="40"><br><sub>IntelliJ IDEA · Visual Studio Code</sub> |
-
 ## Atividade no GitHub
 
 <p align="center">
@@ -43,6 +33,16 @@ Tenho interesse em **Banco de Dados**, **DevOps** e **desenvolvimento back-end**
   <br>
   <sub>O nível é calculado pelo GitHub Readme Stats a partir de commits, pull requests, issues, revisões, estrelas e seguidores; não é uma posição em ranking oficial. As linguagens refletem o código dos repositórios públicos, incluindo projetos acadêmicos e de estudo.</sub>
 </p>
+
+## Tecnologias
+
+| Área | Tecnologias |
+| :-- | :-- |
+| **Banco de Dados** | <img src="assets/oracle.svg" alt="Oracle Database" height="40"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"><br><sub>Oracle Database · SQL · PL/SQL · MySQL</sub> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github" alt="Azure, Docker, Linux, Git, GitHub" height="40"><br><sub>Microsoft Azure · Docker · Docker Compose · Linux · Git · GitHub</sub> |
+| **Back-end e Programação** | <img src="https://skillicons.dev/icons?i=java,python" alt="Java, Python" height="40"><br><sub>Java · Python</sub> |
+| **Web** | <img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS" height="40"><br><sub>HTML · CSS</sub> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=idea,vscode" alt="IntelliJ IDEA, VS Code" height="40"><br><sub>IntelliJ IDEA · Visual Studio Code</sub> |
 
 ## Projetos em destaque
 
