@@ -22,12 +22,13 @@ Tenho interesse em **Banco de Dados**, **DevOps** e **desenvolvimento back-end**
 ## Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Claytonasantos&show_icons=true&include_all_commits=true&rank_icon=github&locale=pt-br&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&border_color=30363d&border_radius=8" alt="Estatísticas do GitHub de Claytonasantos" width="380">
-  <img src="https://streak-stats.demolab.com?user=Claytonasantos&locale=pt_BR&timezone=America/Sao_Paulo&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=8" alt="Sequência de contribuições de Claytonasantos no GitHub" width="403">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claytonasantos&layout=compact&langs_count=6&locale=pt-br&card_width=395&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Linguagens mais usadas nos repositórios públicos" width="380">
+  <img src="https://github-readme-stats.vercel.app/api?username=Claytonasantos&show_icons=true&include_all_commits=true&rank_icon=github&locale=pt-br&bg_color=161b22&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&hide_border=true&border_radius=8" alt="Estatísticas do GitHub de Claytonasantos" width="360">
+  <img src="https://streak-stats.demolab.com?user=Claytonasantos&locale=pt_BR&timezone=America/Sao_Paulo&card_width=467&background=161B22&hide_border=true&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=8" alt="Sequência de contribuições de Claytonasantos no GitHub" width="360">
+  <br>
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Claytonasantos&layout=compact&langs_count=6&locale=pt-br&card_width=395&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&hide_border=true&border_radius=8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claytonasantos&layout=compact&langs_count=6&locale=pt-br&card_width=795&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&hide_border=true&border_radius=8" alt="Linguagens mais usadas nos repositórios públicos" width="724">
+  </picture>
 </p>
 
 ## Tecnologias
