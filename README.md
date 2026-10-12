@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2000&pause=1500&color=58A6FF&center=true&vCenter=true&width=480&height=36&lines=Banco+de+Dados;DevOps+%26+Cloud;Desenvolvimento+Back-end" alt="Banco de Dados · DevOps & Cloud · Desenvolvimento Back-end">
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/clayton-alves-dos-santos-224281353"><img src="https://img.shields.io/badge/LinkedIn-Clayton%20Alves-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=161b22" alt="LinkedIn"></a>
   <a href="https://github.com/Claytonasantos"><img src="https://img.shields.io/badge/GitHub-Claytonasantos-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=161b22" alt="GitHub"></a>
 </p>
