@@ -35,3 +35,23 @@ My projects revolve around **Oracle databases** (relational modeling, SQL and PL
   <br>
   <sub>Language share is calculated from code in public repositories, including academic and study projects.</sub>
 </p>
+
+## Featured Projects
+
+### [GuiaPlus API](https://github.com/Claytonasantos/API_JAVA_GUIAPLUS)
+
+Academic social-impact project aimed at reducing absenteeism in medical appointments, **finalist at NEXT FIAP 2025**. REST API in Java with Quarkus and Oracle Database, organized into resource, business and DAO layers, integrated with the team's front-end and containerized with Docker.
+
+`Java 21` `Quarkus` `Oracle Database` `JDBC` `Docker`
+
+### [DimDim API — KURAdevops](https://github.com/Claytonasantos/KURAdevops-cp5-webapp)
+
+Academic DevOps & Cloud team project. A .NET Minimal API with a master-detail data model persisted in Azure SQL Database through EF Core migrations, deployed to Azure App Service with Application Insights monitoring. The infrastructure is provisioned by an idempotent Azure CLI script.
+
+`Microsoft Azure` `Azure SQL Database` `Azure App Service` `Azure CLI` `.NET`
+
+### [Desenvolva-se API](https://github.com/Claytonasantos/API_JAVA_DESENVOLVA_SE)
+
+Academic project with a Java REST API that serves the Desenvolva-se front-end, exposing endpoints for users, courses, professions and recommendations backed by Oracle Database. Containerized with Docker.
+
+`Java 21` `Quarkus` `Oracle Database` `JDBC` `Docker`
