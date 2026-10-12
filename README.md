@@ -55,3 +55,13 @@ Academic DevOps & Cloud team project. A .NET Minimal API with a master-detail da
 Academic project with a Java REST API that serves the Desenvolva-se front-end, exposing endpoints for users, courses, professions and recommendations backed by Oracle Database. Containerized with Docker.
 
 `Java 21` `Quarkus` `Oracle Database` `JDBC` `Docker`
+
+## Education & Certification
+
+- 🎓 **Systems Analysis and Development** — FIAP
+- 🎓 **Technical Degree in Systems Development** — ETEC
+- 📜 **Python** — certification by FIAP
+
+## Contact
+
+I'm open to connecting about databases, DevOps, cloud and back-end development. The best way to reach me is through [LinkedIn](https://linkedin.com/in/clayton-alves-dos-santos-224281353).
