@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Clayton Alves</title>
-  <desc id="desc">Database Development, DevOps and Cloud, Back-end Development</desc>
+  <desc id="desc">Banco de Dados, DevOps &amp; Cloud, Desenvolvimento Back-end</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
@@ -29,5 +29,5 @@
   <text x="600" y="96" text-anchor="middle" class="label">~/Claytonasantos</text>
   <text x="600" y="168" text-anchor="middle" class="name">Clayton Alves</text>
   <rect x="420" y="190" width="360" height="2" fill="url(#accent)"/>
-  <text x="600" y="234" text-anchor="middle" class="areas">Database Development <tspan class="dot">•</tspan> DevOps &amp; Cloud <tspan class="dot">•</tspan> Back-end Development</text>
+  <text x="600" y="234" text-anchor="middle" class="areas">Banco de Dados <tspan class="dot">•</tspan> DevOps &amp; Cloud <tspan class="dot">•</tspan> Desenvolvimento Back-end</text>
 </svg>
