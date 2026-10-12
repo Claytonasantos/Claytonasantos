@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,55:0b2545,100:1f6feb&height=240&section=header&text=Clayton%20Alves&fontColor=f0f6fc&fontSize=60&fontAlignY=28&desc=Banco%20de%20Dados%20%E2%80%A2%20DevOps%20%26%20Cloud%20%E2%80%A2%20Back-end%20Java&descSize=20&descAlignY=45&animation=fadeIn" alt="Clayton Alves — Banco de Dados • DevOps & Cloud • Back-end Java" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2200&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=640&height=40&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Oracle+%C2%B7+SQL+%C2%B7+PL%2FSQL;DevOps+com+Docker+e+Microsoft+Azure;Back-end+com+Java;Em+busca+da+primeira+oportunidade+em+TI" alt="Estudante de Análise e Desenvolvimento de Sistemas · Oracle, SQL e PL/SQL · DevOps com Docker e Microsoft Azure · Back-end com Java · Em busca da primeira oportunidade em TI">
+  <img src="assets/header.svg" alt="Clayton Alves — Banco de Dados • DevOps & Cloud • Desenvolvimento Back-end — Em busca da primeira oportunidade como Jovem Aprendiz ou Trainee em TI" width="100%">
 </p>
 
 <p align="center">
@@ -23,11 +19,11 @@ Tenho interesse em **Banco de Dados**, **DevOps** e **desenvolvimento back-end**
 
 | Área | Tecnologias |
 | :-- | :-- |
-| **Banco de Dados** | <img src="assets/oracle.svg" alt="Oracle Database" height="40"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"><br><img src="https://img.shields.io/badge/Oracle%20Database-21262d?style=flat-square" alt="Oracle Database"> <img src="https://img.shields.io/badge/SQL-21262d?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/PL%2FSQL-21262d?style=flat-square" alt="PL/SQL"> <img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square" alt="MySQL"> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github" alt="Azure, Docker, Linux, Git, GitHub" height="40"><br><img src="https://img.shields.io/badge/Microsoft%20Azure-21262d?style=flat-square" alt="Microsoft Azure"> <img src="https://img.shields.io/badge/Docker-21262d?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Docker%20Compose-21262d?style=flat-square" alt="Docker Compose"> <img src="https://img.shields.io/badge/Linux-21262d?style=flat-square" alt="Linux"> <img src="https://img.shields.io/badge/Git-21262d?style=flat-square" alt="Git"> <img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square" alt="GitHub"> |
-| **Back-end e Programação** | <img src="https://skillicons.dev/icons?i=java,python" alt="Java, Python" height="40"><br><img src="https://img.shields.io/badge/Java-21262d?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Python-21262d?style=flat-square" alt="Python"> |
-| **Web** | <img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS" height="40"><br><img src="https://img.shields.io/badge/HTML-21262d?style=flat-square" alt="HTML"> <img src="https://img.shields.io/badge/CSS-21262d?style=flat-square" alt="CSS"> |
-| **Ferramentas** | <img src="https://skillicons.dev/icons?i=idea,vscode" alt="IntelliJ IDEA, VS Code" height="40"><br><img src="https://img.shields.io/badge/IntelliJ%20IDEA-21262d?style=flat-square" alt="IntelliJ IDEA"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-21262d?style=flat-square" alt="Visual Studio Code"> |
+| **Banco de Dados** | <img src="assets/oracle.svg" alt="Oracle Database" height="40"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"><br><sub>Oracle Database · SQL · PL/SQL · MySQL</sub> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github" alt="Azure, Docker, Linux, Git, GitHub" height="40"><br><sub>Microsoft Azure · Docker · Docker Compose · Linux · Git · GitHub</sub> |
+| **Back-end e Programação** | <img src="https://skillicons.dev/icons?i=java,python" alt="Java, Python" height="40"><br><sub>Java · Python</sub> |
+| **Web** | <img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS" height="40"><br><sub>HTML · CSS</sub> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=idea,vscode" alt="IntelliJ IDEA, VS Code" height="40"><br><sub>IntelliJ IDEA · Visual Studio Code</sub> |
 
 ## Atividade no GitHub
 
@@ -45,12 +41,6 @@ Tenho interesse em **Banco de Dados**, **DevOps** e **desenvolvimento back-end**
 </p>
 
 ## Projetos em destaque
-
-### [KURA × Clyvo Vet — Banco de Dados Oracle](https://github.com/KURA-Clyvo/Mastering-Relational-Database)
-
-Projeto acadêmico do Challenge FIAP 2026, em parceria com a Clyvo Vet, voltado à gestão veterinária. Na equipe, atuo em **Banco de Dados e DevOps**: modelagem do banco Oracle 19c em 3FN, compartilhado por dois back-ends (.NET e Java), com 30 tabelas, sequences, views e objetos PL/SQL — funções, procedures e trigger de auditoria com tratamento de exceções. Também participo da [infraestrutura da equipe](https://github.com/KURA-Clyvo/DevOps-Cloud), com Docker Compose e Microsoft Azure.
-
-`Oracle 19c` `SQL` `PL/SQL` `Docker Compose` `Microsoft Azure`
 
 ### [GuiaPlus API](https://github.com/Claytonasantos/API_JAVA_GUIAPLUS)
 
@@ -79,7 +69,3 @@ Projeto acadêmico com uma API REST em Java que atende ao front-end do Desenvolv
 ## Contato
 
 Estou aberto a conversar sobre banco de dados, DevOps, cloud e desenvolvimento back-end. A melhor forma de falar comigo é pelo [LinkedIn](https://linkedin.com/in/clayton-alves-dos-santos-224281353).
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1f6feb,45:0b2545,100:0d1117&height=120&section=footer" alt="" width="100%">
-</p>
