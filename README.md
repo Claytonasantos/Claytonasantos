@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Clayton Alves — Banco de Dados • DevOps & Cloud • Desenvolvimento Back-end — Em busca da primeira oportunidade como Jovem Aprendiz ou Trainee em TI" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,55:0b2545,100:1f6feb&height=240&section=header&text=Clayton%20Alves&fontColor=f0f6fc&fontSize=60&fontAlignY=28&desc=Banco%20de%20Dados%20%E2%80%A2%20DevOps%20%26%20Cloud%20%E2%80%A2%20Back-end%20Java&descSize=20&descAlignY=45&animation=fadeIn" alt="Clayton Alves — Banco de Dados • DevOps & Cloud • Back-end Java" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2200&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=640&height=40&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Oracle+%C2%B7+SQL+%C2%B7+PL%2FSQL;DevOps+com+Docker+e+Microsoft+Azure;Back-end+com+Java;Em+busca+da+primeira+oportunidade+em+TI" alt="Estudante de Análise e Desenvolvimento de Sistemas · Oracle, SQL e PL/SQL · DevOps com Docker e Microsoft Azure · Back-end com Java · Em busca da primeira oportunidade em TI">
 </p>
 
 <p align="center">
