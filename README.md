@@ -23,11 +23,11 @@ Tenho interesse em **Banco de Dados**, **DevOps** e **desenvolvimento back-end**
 
 | Área | Tecnologias |
 | :-- | :-- |
-| **Banco de Dados** | <img src="assets/oracle.svg" alt="Oracle Database" height="40"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"><br><sub>Oracle Database · SQL · PL/SQL · MySQL</sub> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github" alt="Azure, Docker, Linux, Git, GitHub" height="40"><br><sub>Microsoft Azure · Docker · Docker Compose · Linux · Git · GitHub</sub> |
-| **Back-end e Programação** | <img src="https://skillicons.dev/icons?i=java,python" alt="Java, Python" height="40"><br><sub>Java · Python</sub> |
-| **Web** | <img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS" height="40"><br><sub>HTML · CSS</sub> |
-| **Ferramentas** | <img src="https://skillicons.dev/icons?i=idea,vscode" alt="IntelliJ IDEA, VS Code" height="40"><br><sub>IntelliJ IDEA · Visual Studio Code</sub> |
+| **Banco de Dados** | <img src="assets/oracle.svg" alt="Oracle Database" height="40"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"><br><img src="https://img.shields.io/badge/Oracle%20Database-21262d?style=flat-square" alt="Oracle Database"> <img src="https://img.shields.io/badge/SQL-21262d?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/PL%2FSQL-21262d?style=flat-square" alt="PL/SQL"> <img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square" alt="MySQL"> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github" alt="Azure, Docker, Linux, Git, GitHub" height="40"><br><img src="https://img.shields.io/badge/Microsoft%20Azure-21262d?style=flat-square" alt="Microsoft Azure"> <img src="https://img.shields.io/badge/Docker-21262d?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Docker%20Compose-21262d?style=flat-square" alt="Docker Compose"> <img src="https://img.shields.io/badge/Linux-21262d?style=flat-square" alt="Linux"> <img src="https://img.shields.io/badge/Git-21262d?style=flat-square" alt="Git"> <img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square" alt="GitHub"> |
+| **Back-end e Programação** | <img src="https://skillicons.dev/icons?i=java,python" alt="Java, Python" height="40"><br><img src="https://img.shields.io/badge/Java-21262d?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Python-21262d?style=flat-square" alt="Python"> |
+| **Web** | <img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS" height="40"><br><img src="https://img.shields.io/badge/HTML-21262d?style=flat-square" alt="HTML"> <img src="https://img.shields.io/badge/CSS-21262d?style=flat-square" alt="CSS"> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=idea,vscode" alt="IntelliJ IDEA, VS Code" height="40"><br><img src="https://img.shields.io/badge/IntelliJ%20IDEA-21262d?style=flat-square" alt="IntelliJ IDEA"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-21262d?style=flat-square" alt="Visual Studio Code"> |
 
 ## Atividade no GitHub
 
