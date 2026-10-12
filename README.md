@@ -12,3 +12,13 @@
 I'm Clayton, a developer with a background in Systems Analysis and Development from **FIAP** and a technical degree in Systems Development from **ETEC**.
 
 My projects revolve around **Oracle databases** (relational modeling, SQL and PL/SQL), **Java back-end APIs** and running applications with **Docker** and **Microsoft Azure**. I enjoy the space where data, code and infrastructure meet, and I keep learning by building and deploying academic and personal projects.
+
+## Tech Stack
+
+| Area | Technologies |
+| :-- | :-- |
+| **Database** | <img src="assets/oracle.svg" alt="Oracle Database" height="40"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"><br><sub>Oracle Database · SQL · PL/SQL · MySQL</sub> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github" alt="Azure, Docker, Linux, Git, GitHub" height="40"><br><sub>Microsoft Azure · Docker · Docker Compose · Linux · Git · GitHub</sub> |
+| **Back-end & Programming** | <img src="https://skillicons.dev/icons?i=java,python" alt="Java, Python" height="40"><br><sub>Java · Python</sub> |
+| **Web** | <img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS" height="40"><br><sub>HTML · CSS</sub> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=idea,vscode" alt="IntelliJ IDEA, VS Code" height="40"><br><sub>IntelliJ IDEA · Visual Studio Code</sub> |

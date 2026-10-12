@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">Oracle Database</title>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <rect x="44" y="80" width="168" height="96" rx="48" fill="none" stroke="#C74634" stroke-width="22"/>
+</svg>
