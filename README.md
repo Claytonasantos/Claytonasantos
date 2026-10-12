@@ -46,6 +46,12 @@ Tenho interesse em **Banco de Dados**, **DevOps** e **desenvolvimento back-end**
 
 ## Projetos em destaque
 
+### [KURA × Clyvo Vet — Banco de Dados Oracle](https://github.com/KURA-Clyvo/Mastering-Relational-Database)
+
+Projeto acadêmico do Challenge FIAP 2026, em parceria com a Clyvo Vet, voltado à gestão veterinária. Na equipe, atuo em **Banco de Dados e DevOps**: modelagem do banco Oracle 19c em 3FN, compartilhado por dois back-ends (.NET e Java), com 30 tabelas, sequences, views e objetos PL/SQL — funções, procedures e trigger de auditoria com tratamento de exceções. Também participo da [infraestrutura da equipe](https://github.com/KURA-Clyvo/DevOps-Cloud), com Docker Compose e Microsoft Azure.
+
+`Oracle 19c` `SQL` `PL/SQL` `Docker Compose` `Microsoft Azure`
+
 ### [GuiaPlus API](https://github.com/Claytonasantos/API_JAVA_GUIAPLUS)
 
 Projeto acadêmico de impacto social voltado à redução do absenteísmo em consultas médicas, **finalista do NEXT FIAP 2025**. API REST em Java com Quarkus e Oracle Database, organizada em camadas de recursos, regras de negócio e DAO, integrada ao front-end da equipe e containerizada com Docker.
