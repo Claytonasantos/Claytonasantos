@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Clayton Alves — Banco de Dados • DevOps & Cloud • Desenvolvimento Back-end" width="100%">
+  <img src="assets/header.svg" alt="Clayton Alves — Banco de Dados • DevOps & Cloud • Desenvolvimento Back-end — Em busca da primeira oportunidade como Jovem Aprendiz ou Trainee em TI" width="100%">
 </p>
 
 <p align="center">
@@ -9,9 +9,11 @@
 
 ## Sobre mim
 
-Sou Clayton, desenvolvedor com formação em Análise e Desenvolvimento de Sistemas pela **FIAP** e formação técnica em Desenvolvimento de Sistemas pela **ETEC**.
+Olá! Sou Clayton Alves, estudante de Análise e Desenvolvimento de Sistemas na **FIAP**, com formação técnica em Desenvolvimento de Sistemas pela **ETEC**.
 
-Meus projetos giram em torno de **bancos de dados Oracle** (modelagem relacional, SQL e PL/SQL), **APIs back-end em Java** e execução de aplicações com **Docker** e **Microsoft Azure**. Gosto do ponto em que dados, código e infraestrutura se encontram, e sigo aprendendo ao construir e publicar projetos acadêmicos e pessoais.
+Tenho interesse em **Banco de Dados**, **DevOps** e **desenvolvimento back-end**. Venho desenvolvendo projetos acadêmicos com Oracle, SQL, PL/SQL, Java, Docker e Microsoft Azure, sempre buscando aprender e evoluir tecnicamente.
+
+> 🚀 **Em busca da minha primeira oportunidade como Jovem Aprendiz em TI ou Trainee em TI.**
 
 ## Tecnologias
 
