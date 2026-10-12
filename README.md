@@ -28,10 +28,6 @@ Tenho interesse em **Banco de Dados**, **DevOps** e **desenvolvimento back-end**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claytonasantos&layout=compact&langs_count=6&locale=pt-br&card_width=395&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Linguagens mais usadas nos repositórios públicos" width="380">
-  <br>
-  <sub>Os dados são atualizados automaticamente a partir da atividade pública no GitHub, com cache de algumas horas. A animação de entrada dos cards é apenas visual: os números exibidos são sempre os valores reais.</sub>
-  <br>
-  <sub>O nível é calculado pelo GitHub Readme Stats a partir de commits, pull requests, issues, revisões, estrelas e seguidores; não é uma posição em ranking oficial. As linguagens refletem o código dos repositórios públicos, incluindo projetos acadêmicos e de estudo.</sub>
 </p>
 
 ## Tecnologias
