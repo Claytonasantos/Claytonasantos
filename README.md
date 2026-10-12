@@ -48,19 +48,11 @@ Tenho interesse em **Banco de Dados**, **DevOps** e **desenvolvimento back-end**
 
 ### [GuiaPlus API](https://github.com/Claytonasantos/API_JAVA_GUIAPLUS)
 
-Projeto acadêmico de impacto social voltado à redução do absenteísmo em consultas médicas, **finalista do NEXT FIAP 2025**. API REST em Java com Quarkus e Oracle Database, organizada em camadas de recursos, regras de negócio e DAO, integrada ao front-end da equipe e containerizada com Docker.
+Projeto acadêmico de impacto social voltado à redução do absenteísmo em consultas médicas, **finalista do NEXT FIAP 2025**.
 
-`Java 21` `Quarkus` `Oracle Database` `JDBC` `Docker`
-
-### [DimDim API — KURAdevops](https://github.com/Claytonasantos/KURAdevops-cp5-webapp)
-
-Projeto acadêmico em equipe de DevOps & Cloud. Minimal API em .NET com modelo de dados mestre-detalhe persistido no Azure SQL Database por meio de migrations do EF Core, publicada no Azure App Service com monitoramento pelo Application Insights. A infraestrutura é provisionada por um script idempotente em Azure CLI.
-
-`Microsoft Azure` `Azure SQL Database` `Azure App Service` `Azure CLI` `.NET`
-
-### [Desenvolva-se API](https://github.com/Claytonasantos/API_JAVA_DESENVOLVA_SE)
-
-Projeto acadêmico com uma API REST em Java que atende ao front-end do Desenvolva-se, com endpoints de usuários, cursos, profissões e recomendações apoiados em Oracle Database. Containerizada com Docker.
+- API REST desenvolvida em **Java 21** com **Quarkus**, com endpoints JSON para usuários, perfis, lembretes, tutoriais e suporte.
+- Persistência em **Oracle Database** via **JDBC**, com o código organizado em camadas de recursos, regras de negócio (BO) e acesso a dados (DAO).
+- Integrada ao front-end da equipe e empacotada em imagem **Docker**.
 
 `Java 21` `Quarkus` `Oracle Database` `JDBC` `Docker`
 
